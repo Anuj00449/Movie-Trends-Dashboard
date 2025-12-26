@@ -12,7 +12,7 @@ Cleaned Dataset – Processed data used for dashboard creation
 
 📷 Dashboard Screenshots : https://drive.google.com/drive/folders/1ozOITG5hYafVOnPG3m99Ou_IXDsQWiui?usp=drive_link
 
-🔗 Important Links • GitHub Repository: • Google Drive Dataset Link: (https://drive.google.com/drive/folders/1ozOITG5hYafVOnPG3m99Ou_IXDsQWiui?usp=drive_link)
+🔗 Important Links • GitHub Repository: https://github.com/Anuj00449/Movie-Trends-Dashboard.git • Google Drive Dataset Link: (https://drive.google.com/drive/folders/1ozOITG5hYafVOnPG3m99Ou_IXDsQWiui?usp=drive_link)
 
 📌 Conclusion The Movie Trends Dashboard provides valuable insights into the financial performance of movies. By analysing revenue, ROI, and profit margins, this project demonstrates how data visualization can support better business and investment decisions in the entertainment industry.
 
